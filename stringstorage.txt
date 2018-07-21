@@ -1,0 +1,5 @@
+0 stationary pencil ballpen eraser clip
+1 fruit pineapple apple strawberry
+2 job policeman fireman doctor teacher
+3 funiture table chair sofa desk
+ 
